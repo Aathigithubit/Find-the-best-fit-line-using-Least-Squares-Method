@@ -18,6 +18,11 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ## Program:
 ```
+/*
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: AATHI.S
+RegisterNumber:  212223220001
+*/
 
 import numpy as np
 import matplotlib.pyplot as plt
